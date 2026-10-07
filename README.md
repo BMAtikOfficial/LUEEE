@@ -1,2 +1,2 @@
 # LUEEE
-LUEEE is an all-in-one Android WebView app for EEE students, offering course materials, notes, CGPA and waiver calculators, notices, software, payments, and updates.
+LUEEE is a professional Android WebView app for the EEE Department, offering academic resources, CGPA and waiver tools, notices, software, payments, and updates.
